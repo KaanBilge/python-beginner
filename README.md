@@ -5,3 +5,6 @@ To get started, simply:
  - Download this .ipynb file
  - Open https://colab.research.google.com/
  - Click "New notebook" -> "Upload a notebook"
+
+Also, please fill out this form so that I can align our scope, if necessary:
+https://forms.gle/F1GgemsQwazND2BB9
